@@ -21,13 +21,13 @@ max_pages_to_parse = 2
 Клонируйте проект
 
 ~~~bash  
-  git clone https://github.com/shirotame/parser-citilink
+  git clone https://github.com/shirotame/citilink-parser
 ~~~
 
 Перейдите в папку проекта 
 
 ~~~bash  
-  cd parser-citilink
+  cd citilink-parser
 ~~~
 
 Установите зависимости и, если необходомо, то виртуальное окружение Python
